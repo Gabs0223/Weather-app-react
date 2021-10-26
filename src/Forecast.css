@@ -1,0 +1,9 @@
+.lowerBorder {
+  margin: auto 0;
+  padding: 15px;
+  display: flex;
+  border: solid #a9cce3;
+  align-content: space-between;
+  align-items: baseline;
+  justify-content: space-around;
+}

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Milonga&display=swap");
+
+.upperBorder {
+  margin: auto 0;
+  padding: 15px;
+  display: flex;
+  border: solid #a9cce3;
+  align-content: space-between;
+  align-items: baseline;
+  justify-content: space-around;
+}
+.derecha {
+  margin: auto 0;
+}
+.cityName {
+  color: #84b1cf;
+  font-size: 55px;
+  text-transform: capitalize;
+  text-align: center;
+  font-family: "Jacques Francois Shadow", cursive;
+}
+.searchForm {
+  flex-wrap: nowrap;
+}
+#searchBar {
+  font-family: "Source Code Pro", monospace;
+}
+.weatherInfo {
+  color: #83a8c1;
+  text-align: center;
+  font-weight: normal;
+  font-family: "Lobster Two", cursive;
+}
