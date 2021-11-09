@@ -1,8 +1,8 @@
-import React, { useState } from "react";
-import axios from "axios";
+import React from "react";
+//import axios from "axios";
 import { Container, Col, Row } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Icon from "./Icon";
+//import Icon from "./Icon";
 import "./Forecast.css";
 
 export default function Forecast() {

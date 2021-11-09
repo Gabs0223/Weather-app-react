@@ -6,7 +6,6 @@ import Forecast from "./Forecast";
 //import App from './App';
 
 import reportWebVitals from "./reportWebVitals";
-import { Container, Col, Row } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import "./index.css";
